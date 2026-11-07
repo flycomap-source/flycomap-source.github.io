@@ -1,8 +1,11 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "br.com.movvimais.entregas",
-        "sha256_cert_fingerprints": ["D9:B8:88:D5:28:B3:E4:9D:ED:09:59:63:05:FB:E0:FC:78:9A:B2:66:79:D6:E6:A3:A5:94:11:78:E6:56:0E:18"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "br.com.movvimais.entregas",
+    "sha256_cert_fingerprints": [
+      "8C:2D:08:6A:85:73:D2:82:BA:E7:23:5E:97:BC:87:10:1B:98:4A:B2:BC:57:C7:A2:B6:58:3E:BE:C2:63:ED:1E",
+      "D9:B8:88:D5:28:B3:E4:9D:ED:09:59:63:05:FB:E0:FC:78:9A:B2:66:79:D6:E6:A3:A5:94:11:78:E6:56:0E:18"
+    ]
+  }
+}]
