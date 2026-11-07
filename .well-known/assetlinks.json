@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "br.com.movvimais.entregas",
+        "sha256_cert_fingerprints": ["D9:B8:88:D5:28:B3:E4:9D:ED:09:59:63:05:FB:E0:FC:78:9A:B2:66:79:D6:E6:A3:A5:94:11:78:E6:56:0E:18"]
+      }
+    }]
